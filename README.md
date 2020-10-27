@@ -24,9 +24,6 @@ For production build:
 npm run build
 ```
 
-Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
-
-
 ## Contact
 
 If you want to contact me you can reach me at <fernandezkelvin98@gmail.com>.
